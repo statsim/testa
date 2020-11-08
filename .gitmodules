@@ -1,3 +1,0 @@
-[submodule "testb"]
-	path = testb
-	url = git@github.com:statsim/testb.git
